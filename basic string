@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	char class[]="hello world";
+	printf("%c\n",class[4]);
+	printf("%s",class);
+}
