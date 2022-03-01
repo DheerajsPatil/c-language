@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	int a=10,b;
+	printf("enter any value");
+	scanf("%d",&b);
+	a/=b;
+	printf("%d",a);
+}
